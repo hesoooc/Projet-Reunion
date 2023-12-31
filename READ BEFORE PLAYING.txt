@@ -1,0 +1,23 @@
+TIPS FOR TRAINERS
+
+- Press F1 to edit your controls.
+
+- If you get stuck somewhere, feel free to contact us on Discord (Link in Twitter bio!)
+
+- All the NPCs have unique dialogue, talk to all of them, and some multiple times!
+
+- Keep an eye on the Discord or Twitter for updates! Please report any issues you have with the game as well.
+
+- Avoid watching the unzipping to avoid spoilers. Though, if you're reading this it might be too late.
+
+- Pokémon original to this game do NOT have unique shiny sprites.
+
+- There are three auto save slots. The game auto saves every 1000 steps, and erases the oldest auto save to make room. Please feel free to take as many manual saves as you like, or even to back them up yourself. However, remember that reloading older saves cannot truly undo your mistakes; it only creates a new timeline.
+
+- Unless you are on mobile, the save files are usually located in "C:\Users\<YOUR USERNAME>\AppData\Roaming\Projet Reunion".
+
+- Toggle speed up (1x/2x/4x) by pressing the left shoulder button (default Q for qwerty, A for azerty).
+
+- View type matchups in battle by pressing the right shoulder button (default W for qwerty, Z for azerty).
+
+1212221

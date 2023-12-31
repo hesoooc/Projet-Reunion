@@ -1,0 +1,1875 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[REDGSC]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[REDCUTSCENE]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[RED]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[REDRSE]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[RIVAL2]
+Name = Rival
+Gender = Male
+BaseMoney = 36
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BIKER]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIRDKEEPER]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SCOUT]
+Name = Scout
+Gender = Male
+BaseMoney = 16
+IntroBGM = Encounter Scout
+BattleBGM = Battle Trainer Kanto
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[CHANELLER]
+Name = Channeler
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CUEBALL]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[ENGINEER]
+Name = Engineer
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GAMBLER]
+Name = Gambler
+Gender = Male
+BaseMoney = 72
+SkillLevel = 32
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 100
+IntroBGM = Encounter Lady
+BattleBGM = Battle Weak Trainer
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Female
+BaseMoney = 16
+SkillLevel = 100
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 64
+SkillLevel = 100
+#-------------------------------
+[POKEMONBREEDER]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+SkillLevel = 100
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ROCKER]
+Name = Rocker
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+SkillLevel = 100
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 32
+SkillLevel = 100
+#-------------------------------
+[SCIENTIST]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+SkillLevel = 100
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[TAMER]
+Name = Tamer
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt
+Gender = Male
+BaseMoney = 32
+SkillLevel = 100
+#-------------------------------
+[CRUSHGIRL]
+Name = Crush Girl
+Gender = Female
+BaseMoney = 24
+#-------------------------------
+[CAMPER]
+Name = Campeur
+Gender = Male
+BaseMoney = 16
+SkillLevel = 100
+IntroBGM = Encounter Lady
+BattleBGM = Battle Weak Trainer
+#-------------------------------
+[PICNICKER]
+Name = Campeuse
+Gender = Female
+BaseMoney = 16
+IntroBGM = Encounter Lady
+BattleBGM = Battle Weak Trainer
+#-------------------------------
+[COOLTRAINER_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[COOLTRAINER_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[YOUNGSTER]
+Name = Gamin
+Gender = Male
+BaseMoney = 16
+SkillLevel = 100
+IntroBGM = Encounter Gamin
+BattleBGM = Battle Trainer Kanto
+#-------------------------------
+[LASS]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+SkillLevel = 100
+#-------------------------------
+[POKEMONRANGER_M]
+Name = Pokémon Ranger
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONRANGER_F]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[PSYCHIC_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC_F]
+Name = Psychic
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SWIMMER_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[TUBER_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER2_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER2_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[COOLCOUPLE]
+Name = Cool Couple
+Gender = Unknown
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[CRUSHKIN]
+Name = Crush Kin
+Gender = Unknown
+BaseMoney = 48
+#-------------------------------
+[SISANDBRO]
+Name = Sis and Bro
+Gender = Unknown
+BaseMoney = 16
+SkillLevel = 48
+#-------------------------------
+[TWINS]
+Name = Twins
+Gender = Unknown
+BaseMoney = 24
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Young Couple
+Gender = Unknown
+BaseMoney = 60
+SkillLevel = 32
+#-------------------------------
+[TEAMROCKET_M]
+Name = Team Rocket
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TEAMROCKET_F]
+Name = Team Rocket
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[ROCKETBOSS]
+Name = Rocket Boss
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[LEADER_Brock]
+Name = Champion
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Misty]
+Name = Champion
+Gender = Female
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Surge]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Erika]
+Name = Champion
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Koga]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Sabrina]
+Name = Champion
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Blaine]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Giovanni]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Lorelei]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Bruno]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Agatha]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Lance]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION]
+Name = Champion
+Gender = Male
+BaseMoney = 50
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[TEST]
+Name = Mercenaire
+Gender = Male
+BaseMoney = 75
+SkillLevel = 100
+BattleBGM = Battle Takahaki
+VictoryBGM = Battle victory leader
+#-------------------------------
+[TEST2]
+Name = Ingénieur
+Gender = Male
+BaseMoney = 75
+SkillLevel = 100
+BattleBGM = Battle Ezechiel
+VictoryBGM = Victory Ezechiel
+#-------------------------------
+[TEST3]
+Name = Seventh
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Seventh
+#-------------------------------
+[TEST4]
+Name = Seventh
+Gender = Male
+BaseMoney = 110
+BattleBGM = Battle Seventh
+#-------------------------------
+[TEST5]
+Name = Reine Écarlate
+Gender = Female
+BaseMoney = 1500
+BattleBGM = Battle Eden
+#-------------------------------
+[TEST6]
+Name = Gardienne du Savoir
+Gender = Female
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Zinnia
+#-------------------------------
+[TEST7]
+Name = Champion
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Blue
+VictoryBGM = Battle victory leader
+#-------------------------------
+[TEST8]
+Name = Thief
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle Mana
+#-------------------------------
+[YELL]
+Name = Team Yell
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Team Yell
+BattleBGM = Battle Yell
+VictoryBGM = Victory_galar
+#-------------------------------
+[YELL_F]
+Name = Team Yell
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Team Yell
+BattleBGM = Battle Yell
+VictoryBGM = Victory_galar
+#-------------------------------
+[CHAMPION_Rosemary]
+Name = Champion
+Gender = Female
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Marnie
+VictoryBGM = Victory_galar
+#-------------------------------
+[CHRONOS]
+Name = Team Chronos
+Gender = Male
+BaseMoney = 55
+SkillLevel = 100
+IntroBGM = Encounter Chronos
+BattleBGM = Battle Chronos
+VictoryBGM = Victory Chronos
+#-------------------------------
+[PECHEUR_F]
+Name = Pêcheuse
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Pecheur
+BattleBGM = Battle Galar
+VictoryBGM = Victory galar
+#-------------------------------
+[JIN]
+Name = ???
+Gender = Male
+BaseMoney = 600
+SkillLevel = 100
+BattleBGM = Battle Jin
+VictoryBGM = Victory Chronos
+#-------------------------------
+[RANGERF]
+Name = Ranger
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+BattleBGM = Battle Galar
+VictoryBGM = Victory_galar
+#-------------------------------
+[RANGER]
+Name = Ranger
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+BattleBGM = Battle Galar
+VictoryBGM = Victory_galar
+#-------------------------------
+[SPORTIF]
+Name = Skieur
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Toptrainer
+BattleBGM = BATTLE SINNOH.mp3
+VictoryBGM = Victory_galar
+#-------------------------------
+[TOPDRESSEUR]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter ACEK
+BattleBGM = Battle Sinnoh
+VictoryBGM = Victory_Sinnoh
+#-------------------------------
+[TOPDRESSEUR_F]
+Name = Tropdresseur
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Toptrainer
+BattleBGM = Battle Sinnoh
+VictoryBGM = Victory_Sinnoh
+#-------------------------------
+[ORNYTHOLOGUE]
+Name = Ornythologue
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Toptrainer
+BattleBGM = Battle Sinnoh
+VictoryBGM = Victory_Sinnoh
+#-------------------------------
+[KARATEKA]
+Name = Karateka
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Karateka
+BattleBGM = Battle Sinnoh
+VictoryBGM = Victory_Sinnoh
+#-------------------------------
+[MONTAGNARD]
+Name = Montagnard
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Montagnard
+BattleBGM = Battle Sinnoh
+VictoryBGM = Victory_Sinnoh
+#-------------------------------
+[INFLUENCEUSE]
+Name = Influenceuse
+Gender = Female
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter BG
+BattleBGM = Battle Sinnoh
+VictoryBGM = Victory_Sinnoh
+#-------------------------------
+[GALACTIC_M]
+Name = Team Galaxie
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Galactic
+BattleBGM = Battle Galactic
+VictoryBGM = Victory Galactic
+#-------------------------------
+[GALACTIC_F]
+Name = Team Galaxie
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Galactic
+BattleBGM = Battle Galactic
+VictoryBGM = Victory Galactic
+#-------------------------------
+[AETHERM]
+Name = Fondation Aether
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Aether
+BattleBGM = Battle Aether
+VictoryBGM = Victory Aether
+#-------------------------------
+[AETHERF]
+Name = Fondation Aether
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Aether
+BattleBGM = Battle Aether
+VictoryBGM = Victory Aether
+#-------------------------------
+[GLADIO]
+Name = Dresseur
+Gender = Male
+BaseMoney = 68
+SkillLevel = 100
+BattleBGM = Battle Gladion
+VictoryBGM = Victory Alola
+#-------------------------------
+[LUSAMINE]
+Name = Présidente Fondation Aether
+Gender = Female
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle Lusamine
+VictoryBGM = Victory Aether
+#-------------------------------
+[SKULLM]
+Name = Team Skull
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Team Skull
+BattleBGM = Battle Skull
+VictoryBGM = Victory Alola
+#-------------------------------
+[GUZMA]
+Name = Leader Team Skull
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+BattleBGM = Battle Guzma
+VictoryBGM = Victory Alola
+#-------------------------------
+[SKULLF]
+Name = Team Skull
+Gender = Female
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Team Skull
+BattleBGM = Battle Skull
+VictoryBGM = Victory Alola
+#-------------------------------
+[JUPITER]
+Name = Admin Team Galaxie
+Gender = Female
+BaseMoney = 70
+SkillLevel = 100
+BattleBGM = Battle Admin Galactic
+VictoryBGM = Victory Galactic
+#-------------------------------
+[GOLIATH]
+Name = Admin Team Chronos
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+BattleBGM = Battle Admin Chronos
+VictoryBGM = Victory Chronos
+#-------------------------------
+[ARTHUR]
+Name = Leader Team Aqua
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+BattleBGM = Battle Arthur
+VictoryBGM = Victory Aqua
+#-------------------------------
+[AQUAM]
+Name = Team Aqua
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Aqua
+BattleBGM = Battle Aqua
+VictoryBGM = Victory Aqua
+#-------------------------------
+[AQUAF]
+Name = Team Aqua
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Aqua
+BattleBGM = Battle Aqua
+VictoryBGM = Victory Aqua
+#-------------------------------
+[DAVID]
+Name = Admin Team Chronos
+Gender = Male
+BaseMoney = 95
+SkillLevel = 100
+BattleBGM = Battle Admin David
+VictoryBGM = Victory Chronos
+#-------------------------------
+[MARC]
+Name = Champion
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Gym Leader Hoenn
+VictoryBGM = Victory Chronos
+#-------------------------------
+[PIERRE]
+Name = Maître
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Steven
+VictoryBGM = Victory Chronos
+#-------------------------------
+[SCIENTIFIQUE]
+Name = Scientifique
+Gender = Male
+BaseMoney = 35
+SkillLevel = 100
+IntroBGM = Encounter Scientist
+BattleBGM = Battle Trainer Kanto
+VictoryBGM = Victory Kanto
+#-------------------------------
+[SANS]
+Name = Sans
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = MEGALOVANIA
+VictoryBGM = Victory Sans
+#-------------------------------
+[PLASMAM]
+Name = Team Plasma
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Plasma
+BattleBGM = Battle Plasma
+VictoryBGM = Victory Plasma
+#-------------------------------
+[PLASMAF]
+Name = Team Plasma
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Plasma
+BattleBGM = Battle Plasma
+VictoryBGM = Victory Plasma
+#-------------------------------
+[LILIEN]
+Name = Sage Team Plasma
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Plasma
+BattleBGM = Battle Plasma
+VictoryBGM = Victory Plasma
+#-------------------------------
+[GHETIS]
+Name = Leader Team Plasma
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Ghetis
+VictoryBGM = Victory Plasma
+#-------------------------------
+[NIKOLAI]
+Name = Scientique Team Plasma
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+IntroBGM = Encounter Nikolai
+BattleBGM = Battle Nikolai
+VictoryBGM = Victory Plasma
+#-------------------------------
+[MATIS]
+Name = Dresseur
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+IntroBGM = Encounter Matis
+BattleBGM = Battle Matis
+#-------------------------------
+[PLASMADUO]
+Name = Team Plasma
+Gender = Unknown
+BaseMoney = 65
+SkillLevel = 100
+IntroBGM = Encounter Plasma
+BattleBGM = Battle Plasma
+VictoryBGM = Victory Plasma
+#-------------------------------
+[JAMIE]
+Name = Scientifique
+Gender = Male
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Jamie
+VictoryBGM = Victory Kanto
+#-------------------------------
+[N]
+Name = Dresseur
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle N
+VictoryBGM = Victory Kanto
+#-------------------------------
+[EXORCISTE]
+Name = Exorciste
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Hexmaniac
+BattleBGM = Battle Trainer Kanto
+VictoryBGM = Victory Kanto
+#-------------------------------
+[MJ]
+Name = Roi de la Pop
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+BattleBGM = Battle MJ
+VictoryBGM = Victory Kanto
+#-------------------------------
+[PECHEUR]
+Name = Pêcheur
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Pecheur
+BattleBGM = Battle Trainer Kanto
+VictoryBGM = Victory Kanto
+#-------------------------------
+[LILITH]
+Name = D-Squad
+Gender = Female
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Lilith
+BattleBGM = Battle Lilith
+VictoryBGM = Victory Lilith
+#-------------------------------
+[GALACTICDUO]
+Name = Team Galaxie
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+IntroBGM = Encounter Galactic
+BattleBGM = Battle Duo
+VictoryBGM = Victory Galactic
+#-------------------------------
+[NARCISSE]
+Name = Mercenaire
+Gender = Male
+BaseMoney = 73
+SkillLevel = 100
+IntroBGM = Encounter ! Takahaki
+BattleBGM = Battle Narcisse
+VictoryBGM = Victory Narcisse
+#-------------------------------
+[CHRONOSDUO]
+Name = Team Chronos
+Gender = Male
+BaseMoney = 55
+SkillLevel = 100
+IntroBGM = Encounter Galactic
+BattleBGM = Battle Chronos
+VictoryBGM = Victory Chronos
+#-------------------------------
+[MARSJUPITER]
+Name = Team Galaxie
+Gender = Female
+BaseMoney = 56
+SkillLevel = 100
+IntroBGM = Encounter Galactic
+BattleBGM = Battle Admin Galactic
+VictoryBGM = Victory Galactic
+#-------------------------------
+[HELIO]
+Name = Leader Galaxie
+Gender = Male
+BaseMoney = 70
+IntroBGM = Encounter Galactic
+BattleBGM = Battle Helio
+VictoryBGM = Victory Galactic
+#-------------------------------
+[SILVER]
+Name = Dresseur
+Gender = Male
+BaseMoney = 25
+IntroBGM = Encounter Silver
+BattleBGM = Battle Silver
+VictoryBGM = Victory Trainer
+#-------------------------------
+[DAMIEN]
+Name = Conseil 4
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Damien
+BattleBGM = Battle Elite Hoenn
+VictoryBGM = Victory Elite Hoenn
+#-------------------------------
+[KAHILI]
+Name = Conseil 4
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Elite Alola
+BattleBGM = Battle Elite Alola
+VictoryBGM = Victory Elite Alola
+#-------------------------------
+[AARON]
+Name = Conseil 4
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Aaron
+BattleBGM = Battle Elite Sinnoh
+VictoryBGM = Victory Elite Sinnoh
+#-------------------------------
+[CLEMENT]
+Name = Conseil 4
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Elite Johto
+BattleBGM = Battle Elite Johto
+VictoryBGM = Victory Elite Johto
+#-------------------------------
+[PETER]
+Name = Maître
+Gender = Male
+BaseMoney = 120
+SkillLevel = 100
+IntroBGM = Encounter Peter
+BattleBGM = Battle Peter
+VictoryBGM = Victory Champion
+#-------------------------------
+[STEVEN]
+Name = Maître
+Gender = Male
+BaseMoney = 120
+SkillLevel = 100
+IntroBGM = Encounter Steven
+BattleBGM = Battle Steven
+VictoryBGM = Victory Champion
+#-------------------------------
+[DIANTHEA]
+Name = Maître
+Gender = Female
+BaseMoney = 120
+SkillLevel = 100
+IntroBGM = Encounter Dianthea
+BattleBGM = Battle Dianthea
+VictoryBGM = Victory Champion
+#-------------------------------
+[IRIS]
+Name = Maître
+Gender = Female
+BaseMoney = 120
+SkillLevel = 100
+IntroBGM = Encounter Iris
+BattleBGM = Battle Iris
+VictoryBGM = Victory Champion
+#-------------------------------
+[CYNTHIA]
+Name = Maître
+Gender = Female
+BaseMoney = 120
+SkillLevel = 100
+IntroBGM = Encounter Cynthia
+BattleBGM = Battle Cynthia
+VictoryBGM = Victory Champion
+#-------------------------------
+[TARAK]
+Name = Maître
+Gender = Male
+BaseMoney = 120
+IntroBGM = Encounter Tarak
+BattleBGM = Battle Tarak
+VictoryBGM = Victory Champion
+#-------------------------------
+[DAVIDGOLIATH]
+Name = Admin Team Chronos
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+BattleBGM = Battle Admin Chronos
+VictoryBGM = Victory Chronos
+#-------------------------------
+[FLAREDUO]
+Name = Team Flare
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Flare
+BattleBGM = Battle Flare
+VictoryBGM = Victory Trainer
+#-------------------------------
+[LYSANDRE]
+Name = Leader Team Flare
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+BattleBGM = Battle Lysandre
+VictoryBGM = Victory Trainer
+#-------------------------------
+[SPECTRA]
+Name = Leader Team Chronos
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = Battle Spectra
+VictoryBGM = Victory Chronos
+#-------------------------------
+[LILITHF]
+Name = D-Squad
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+IntroBGM = Encounter Lilith
+BattleBGM = Lilith Final Battle V2
+VictoryBGM = Victory Lilith
+#-------------------------------
+[SERENA]
+Name = ???
+Gender = Female
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Seventh
+VictoryBGM = Victory Serena
+#-------------------------------
+[DAVID2]
+Name = Dresseur
+Gender = Male
+BaseMoney = 75
+SkillLevel = 100
+BattleBGM = Battle Admin David
+VictoryBGM = Victory Chronos
+#-------------------------------
+[BASIL]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Basil
+VictoryBGM = Victory Chronos
+#-------------------------------
+[MIZUKI]
+Name = D-Squad
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Mizuki
+VictoryBGM = Victory Mizuki
+#-------------------------------
+[JARVIS]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Jarvis
+VictoryBGM = Victory Jarvis
+#-------------------------------
+[NOELANI]
+Name = D-Squad
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Noelani
+VictoryBGM = Victory Noelani
+#-------------------------------
+[ODEN]
+Name = D-Squad
+Gender = Male
+BaseMoney = 0
+SkillLevel = 100
+BattleBGM = Battle Oden
+VictoryBGM = Victory Oden
+#-------------------------------
+[EZELDARM]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Ezeldarm
+VictoryBGM = Victory Ezeldarm
+#-------------------------------
+[GRINZE]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Grinze
+VictoryBGM = Victory Chronos
+#-------------------------------
+[RITCHY]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Ritchy
+VictoryBGM = Victory Chronos
+#-------------------------------
+[WAN]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Wan
+VictoryBGM = Victory Wan
+#-------------------------------
+[REN]
+Name = D-Squad
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Ren
+VictoryBGM = Victory Ren
+#-------------------------------
+[SAUL]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Saul
+VictoryBGM = Victory Saul
+#-------------------------------
+[STEPH]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Steph
+VictoryBGM = Victory Steph
+#-------------------------------
+[LYCORIS]
+Name = Gardien du Savoir
+Gender = Male
+BaseMoney = 500
+SkillLevel = 100
+BattleBGM = Battle LYCORIS
+VictoryBGM = Victory Lycoris
+#-------------------------------
+[NARCISSE2]
+Name = Mercenaire
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter ! Takahaki
+BattleBGM = Battle Narcisse
+VictoryBGM = Victory Narcisse kai
+#-------------------------------
+[VINCENT]
+Name = Génie du Jeu
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+BattleBGM = Battle Vincent
+VictoryBGM = Victory Chronos
+#-------------------------------
+[REDQUEEN]
+Name = Reine Écarlate
+Gender = Male
+BaseMoney = 5000
+SkillLevel = 100
+BattleBGM = Battle Eden
+VictoryBGM = Victory Eden
+#-------------------------------
+[KARASU]
+Name = Gang Karasu
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Karasu
+BattleBGM = Battle Karasu
+VictoryBGM = Victory Karasu
+#-------------------------------
+[RAVEN]
+Name = Leader Gang Karasu
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+BattleBGM = Battle Raven
+VictoryBGM = Victory Karasu
+#-------------------------------
+[GAIA]
+Name = Amazonne
+Gender = Female
+BaseMoney = 999
+SkillLevel = 9999
+BattleBGM = Battle Gaia
+VictoryBGM = Victory Ren
+#-------------------------------
+[RESISTANCE]
+Name = Resistance
+Gender = Male
+BaseMoney = 1000
+SkillLevel = 100
+BattleBGM = Battle Resistance
+VictoryBGM = Victory Resistance
+#-------------------------------
+[LOREKEEPER]
+Name = Peuple du Météore
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+BattleBGM = Battle with Zinnia
+#-------------------------------
+[ACEF]
+Name = Topdresseur
+Gender = Female
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Ace hoenn
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[ACEK]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter ACEK
+BattleBGM = Battle Kalos
+#-------------------------------
+[ACEH]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Ace hoenn
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[MILADY]
+Name = Demoiselle
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+IntroBGM = Encounter Richboy
+BattleBGM = Battle Kalos
+#-------------------------------
+[COLLECTOR]
+Name = Collectionneur
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+IntroBGM = Encounter Collector
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[TRAVELER]
+Name = Voyageur
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Encounter Voyageur
+BattleBGM = Battle Kalos
+#-------------------------------
+[BREEDERM]
+Name = Eleveur
+Gender = Male
+BaseMoney = 35
+SkillLevel = 100
+IntroBGM = Encounter Breeder
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[BREEDERF]
+Name = Eleveuse
+Gender = Female
+BaseMoney = 35
+SkillLevel = 100
+IntroBGM = Encounter Breeder
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[RICHBOY]
+Name = Patron
+Gender = Male
+BaseMoney = 67
+SkillLevel = 100
+IntroBGM = Encounter Richboy
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[AROMA]
+Name = Aroma
+Gender = Female
+BaseMoney = 67
+SkillLevel = 100
+IntroBGM = Encounter Aroma
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[SPORTIVE]
+Name = Athlète
+Gender = Female
+BaseMoney = 65
+SkillLevel = 100
+IntroBGM = Encounter Athlete
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[KINESIST]
+Name = Kinésiste
+Gender = Male
+BaseMoney = 65
+SkillLevel = 100
+IntroBGM = Encounter Athlete
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[ALEXANDRE]
+Name = Barman
+Gender = Male
+BaseMoney = 65
+SkillLevel = 100
+IntroBGM = Encounter Athlete
+BattleBGM = Battle Alexandre
+#-------------------------------
+[SATURNIN]
+Name = Dresseur
+Gender = Male
+BaseMoney = 65
+SkillLevel = 100
+IntroBGM = Encounter Athlete
+BattleBGM = Battle Saturnin
+#-------------------------------
+[SOPHORA]
+Name = Dresseur
+Gender = Male
+BaseMoney = 66
+SkillLevel = 100
+IntroBGM = Encounter Athlete
+BattleBGM = Battle Sophora
+#-------------------------------
+[MUSTAR]
+Name = Maître du Dojo
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+IntroBGM = Encounter Athlete
+BattleBGM = Battle Mustar
+#-------------------------------
+[SERENAXY]
+Name = Dresseur
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+IntroBGM = Encounter Serenaxy
+BattleBGM = Battle Serenaxy
+#-------------------------------
+[BARRY]
+Name = Dresseur
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Barry
+BattleBGM = Battle Barry
+#-------------------------------
+[NABIL]
+Name = Dresseur
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Nabil
+BattleBGM = Battle Nabil
+#-------------------------------
+[TILI]
+Name = Dresseur
+Gender = Male
+BaseMoney = 70
+SkillLevel = 100
+IntroBGM = Encounter Tili
+BattleBGM = Battle Tili
+#-------------------------------
+[TOPF]
+Name = Topdresseur
+Gender = Female
+BaseMoney = 40
+SkillLevel = 100
+IntroBGM = Encounter TOPG
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[TOPG]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 40
+SkillLevel = 100
+IntroBGM = Encounter TOPG
+BattleBGM = Battle Trainer 2
+#-------------------------------
+[TOBIAS]
+Name = ???
+Gender = Male
+BaseMoney = 500
+SkillLevel = 9999
+BattleBGM = Battle Seventh
+VictoryBGM = Victory Eden
+#-------------------------------
+[SANDRA]
+Name = Champion
+Gender = Female
+BaseMoney = 150
+SkillLevel = 100
+BattleBGM = Battle Trainer 2
+VictoryBGM = Victory Serena
+#-------------------------------
+[SCOUT2]
+Name = Scout
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle RBY
+VictoryBGM = Victory RBY
+#-------------------------------
+[LILITHB]
+Name = D-Squad
+Gender = Female
+BaseMoney = 69
+IntroBGM = Encounter Lilith
+BattleBGM = Le choix de Lilith
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[MASKARADE]
+Name = Illusionniste
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+IntroBGM = Maskarade
+BattleBGM = Battle Maskarade
+VictoryBGM = Victory Maskarade
+#-------------------------------
+[EVRETH]
+Name = Physicien
+Gender = Male
+BaseMoney = 99
+SkillLevel = 100
+IntroBGM = Evreth
+BattleBGM = Battle Evreth
+VictoryBGM = Victory Evreth
+#-------------------------------
+[SILVERV]
+Name = Dresseur
+Gender = Male
+BaseMoney = 56
+SkillLevel = 100
+IntroBGM = Silver
+BattleBGM = Battle Silver Vintage
+VictoryBGM = Victory GSC
+#-------------------------------
+[BASILV]
+Name = D-Squad
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Basil Vintage
+VictoryBGM = Victory GSC
+#-------------------------------
+[LILITHV]
+Name = D-Squad
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Lilith Vintage
+VictoryBGM = Victory GSC
+#-------------------------------
+[KINESIS]
+Name = Kinésiste
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle Trainer GSC
+VictoryBGM = Victory GSC
+#-------------------------------
+[TOPDRES]
+Name = Topdresseuse
+Gender = Female
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle Trainer GSC
+VictoryBGM = Victory GSC
+#-------------------------------
+[MANIAC]
+Name = Pokémaniac
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle Trainer GSC
+VictoryBGM = Victory GSC
+#-------------------------------
+[PIAF]
+Name = Ornithologue
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+BattleBGM = Battle Trainer GSC
+VictoryBGM = Victory GSC
+#-------------------------------
+[ARTHURMAX]
+Name = Champions
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+BattleBGM = Battle Gym Leader Hoenn
+VictoryBGM = Victory Lycoris
+#-------------------------------
+[MARCPIERRE]
+Name = Leader Aqua & Magma
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+BattleBGM = Battle with Ezechiel
+VictoryBGM = Victory Aqua
+#-------------------------------
+[AQUA]
+Name = Team Aqua
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Aqua
+BattleBGM = Battle Aqua
+VictoryBGM = Victory Aqua
+#-------------------------------
+[AQUA2]
+Name = Team Aqua
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Aqua
+BattleBGM = Battle Aqua
+VictoryBGM = Victory Aqua
+#-------------------------------
+[MAGMAM]
+Name = Team Magma
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Magma
+BattleBGM = Battle Aqua
+VictoryBGM = Victory Aqua
+#-------------------------------
+[MAGMAF]
+Name = Team Magma
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Magma
+BattleBGM = Battle Aqua
+VictoryBGM = Victory Aqua
+#-------------------------------
+[CYRUSV]
+Name = Homme
+Gender = Male
+BaseMoney = 0
+SkillLevel = 100
+BattleBGM = Battle Cyrus V
+VictoryBGM = Victory GSC
+#-------------------------------
+[VINCENTV]
+Name = Génie du Jeu
+Gender = Male
+BaseMoney = 90
+SkillLevel = 100
+BattleBGM = Battle Vincent Vintage
+VictoryBGM = Victory GSC
+#-------------------------------
+[EZECHIELV]
+Name = Ingénieur
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Ezechiel Vintage
+VictoryBGM = Victory GSC
+#-------------------------------
+[BLANCHE]
+Name = Championne
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Gym Leader GSC
+VictoryBGM = Victory GSC
+#-------------------------------
+[ROCKET]
+Name = Team Rocket
+Gender = Male
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Rocket
+BattleBGM = Battle Rocket
+VictoryBGM = Victory GSC
+#-------------------------------
+[ROCKETF]
+Name = Team Rocket
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+IntroBGM = Encounter Rocket
+BattleBGM = Battle Rocket
+VictoryBGM = Victory GSC
+#-------------------------------
+[DUOROCKET]
+Name = Admin Rocket
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Rocket
+VictoryBGM = Victory GSC
+#-------------------------------
+[JOKER]
+Name = Voleur Fantôme
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Joker
+VictoryBGM = Victory Joker
+#-------------------------------
+[GARDE]
+Name = Garde
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Guard
+VictoryBGM = Victory gravekeeper
+#-------------------------------
+[ISIS]
+Name = Prêtresse
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Isis
+VictoryBGM = Victory gravekeeper
+#-------------------------------
+[SHADI]
+Name = Prêtre
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Shadi
+VictoryBGM = Victory gravekeeper
+#-------------------------------
+[SETO]
+Name = Prêtre
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Seto
+VictoryBGM = Victory gravekeeper
+#-------------------------------
+[PHARAON]
+Name = Pharaon
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Pharaon
+VictoryBGM = Victory Pharaon
+#-------------------------------
+[LAN]
+Name = Net Saver
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Pharaon
+VictoryBGM = Victory Pharaon
+#-------------------------------
+[VOLO]
+Name = Marchand
+Gender = Male
+BaseMoney = 30
+SkillLevel = 100
+BattleBGM = Battle Volo
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[PROTOCOLE]
+Name = Protocole
+Gender = Female
+BaseMoney = 250
+SkillLevel = 100
+BattleBGM = Battle Protocole
+#-------------------------------
+[PERCUPIO]
+Name = Émissaire
+Gender = Male
+BaseMoney = 300
+SkillLevel = 100
+BattleBGM = Battle Volo 2
+#-------------------------------
+[VAURIEN]
+Name = Vaurien
+Gender = Male
+BaseMoney = 1
+SkillLevel = 100
+BattleBGM = Battle Trainer Kai
+#-------------------------------
+[UNOVA]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Unova
+#-------------------------------
+[HOENN]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Hoenn
+VictoryBGM = Victory Hoenn
+#-------------------------------
+[KARAT]
+Name = Bastoneur
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Karat
+VictoryBGM = Victory Wan
+#-------------------------------
+[EUGENE]
+Name = Eugène
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Eugène
+VictoryBGM = Victory Wan
+#-------------------------------
+[ADAM]
+Name = Adam
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Battle Adam
+VictoryBGM = Victory Wan
+#-------------------------------
+[MARK]
+Name = Joueur
+Gender = Male
+BaseMoney = 78
+SkillLevel = 100
+BattleBGM = Battle TCG
+#-------------------------------
+[AMARYLLIS]
+Name = Gardienne du Savoir
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Zinnia Final
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[BOULEDISCO]
+Name = Nomade
+Gender = Male
+BaseMoney = 87
+SkillLevel = 100
+BattleBGM = Battle Mirror B
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[BLUEV]
+Name = Maître
+Gender = Male
+BaseMoney = 79
+SkillLevel = 100
+BattleBGM = Battle Champion V
+#-------------------------------
+[MAJORBOB]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[ERIKA]
+Name = Champion
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[JEANNINE]
+Name = Champion
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[MORGANE]
+Name = Champion
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader Kanto
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[LOREKEEPERF]
+Name = Peuple du Météore
+Gender = Female
+BaseMoney = 75
+SkillLevel = 100
+BattleBGM = Battle with Zinnia
+#-------------------------------
+[LEVYTATIA]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Hoenn
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[PECHEUR2]
+Name = Pêcheur
+Gender = Male
+BaseMoney = 15
+SkillLevel = 100
+IntroBGM = Encounter Pecheur
+BattleBGM = Battle Trainer Kanto
+VictoryBGM = Victory Kanto
+#-------------------------------
+[MELOCO]
+Name = Team Star
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Team Star Leader
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[OLIMTURUM]
+Name = Protocole de Défense
+Gender = Female
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = Battle Paradis Protocol
+VictoryBGM = Victory Team Chronos
+#-------------------------------
+[SOLANNA]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 25
+SkillLevel = 100
+BattleBGM = Battle Pokemon Ranger
+VictoryBGM = Victory Ranger

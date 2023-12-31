@@ -1,0 +1,1218 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Bourg de l'étoile
+Name = Lappet Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # Maison 4
+Name = \PN's house
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]   # Maison 2
+Name = Pokémon Lab
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[006]   # Bill's house
+Name = Route 1
+MapPosition = 0,13,11
+#-------------------------------
+[007]   # Plateau Météore
+Name = Cedolan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,1
+#-------------------------------
+[008]   # Maison 1
+Name = Lappet Town
+MapPosition = 0,13,12
+#-------------------------------
+[009]   # Ruines
+Name = Cedolan City
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]   # Ruines Myrmide
+Name = Cedolan City
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink,PowerSpot
+#-------------------------------
+[011]   # Sanctuaire
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[012]   # Sanctuaire
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[013]   # Sanctuaire
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[014]   # Ruines Pic Roche
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[015]   # Ruines de Fer
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[016]   # Ruines de Glace
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[017]   # Sanctuaire
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[018]   # Ruines Étincelantes
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[019]   # Sanctuaire
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[020]   # Ruines Draconiques
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[021]   # Sentier de l'espoir
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,2
+#-------------------------------
+[023]   # Île des voeux
+Name = Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]   # Lerucean Town Poké Center
+Name = Lerucean Town
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]   # Lerucean Town Mart
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[026]   # Pokémon Fan Club
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[027]   # Pokémon Day Care
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[028]   # Île des voeux
+Name = Natural Park
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = field
+Flags = MossRock
+#-------------------------------
+[029]   # Natural Park Entrance
+Name = Natural Park
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[030]   # Natural Park Pavillion
+Name = Natural Park
+MapPosition = 0,16,8
+#-------------------------------
+[031]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1
+#-------------------------------
+[032]   # CARMIN-SUR-MER
+Name = CARMIN-SUR-MER
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[034]   # Ice Cave
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+[035]   # Route 44
+Name = Route 44
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+SnapEdges = true
+#-------------------------------
+[036]   # Ice Path 
+Name = Route de Glace
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]   # Centre Spatial
+Name = Centre Spatial
+MapPosition = 0,13,6
+BattleBack = elite1
+Flags = DisableBoxLink,PowerSpot
+#-------------------------------
+[038]   # CAVERNE UNION
+Name = ???
+MapPosition = 0,13,6
+Flags = DisableBoxLink
+#-------------------------------
+[039]   # Algatia
+Name = Algatia
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+SnapEdges = true
+BattleBack = field
+MapSize = 2,1
+#-------------------------------
+[040]   # Filler cerulean
+Name = Route 4
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]   # CAVERNE UNION
+Name = ???
+MapPosition = 0,11,7
+Flags = DisableBoxLink
+#-------------------------------
+[044]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+BattleBack = field
+MapSize = 2,1
+#-------------------------------
+[045]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]   # Centre Pokémon
+Name = Route 4
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,1
+Environment = Rock
+#-------------------------------
+[049]   # Rock Cave
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[050]   # Rock Cave
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = cave3
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[051]   # Dungeon
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+BattleBack = cave2
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[052]   # Boutique Pokémon
+Name = Boutique Pokémon
+Outdoor = false
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]   # Maison à Algatia 1
+Name = Maison à Algatia
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]   # Maison à Algatia 2
+Name = Maison à Algatia
+MapPosition = 0,17,10
+#-------------------------------
+[055]   # Maison à Algatia 3
+Name = Maison à Algatia
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]   # Maison à Algatia 4
+Name = Maison à Algatia
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink,PowerSpot
+#-------------------------------
+[057]   # Maison à Algatia 5
+Name = Maison à Algatia
+MapPosition = 0,17,10
+#-------------------------------
+[058]   # Parc
+Name = Parc
+MapPosition = 0,17,10
+SnapEdges = true
+#-------------------------------
+[059]   # Forêt Utopique
+Name = Forêt Utopique
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink,PowerSpot
+#-------------------------------
+[060]   # Forêt Utopique 2
+Name = Forêt Utopique 2
+MapPosition = 0,17,10
+#-------------------------------
+[061]   # Forêt Utopique 3
+Name = Forêt Utopique 3
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink,PowerSpot
+#-------------------------------
+[062]   # Tour Radio RDC
+Name = Tour Radio RDC
+MapPosition = 0,17,10
+#-------------------------------
+[063]   # Cratère de Paldea
+Name = Cratère de Paldea
+ShowArea = true
+MapPosition = 0,17,10
+SnapEdges = true
+Flags = DisableBoxLink
+#-------------------------------
+[064]   # Salle de conférence
+Name = Salle de conférence
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink,PowerSpot
+#-------------------------------
+[065]   # Croiseur d'Evreth
+Name = Croiseur d'Evreth
+Flags = HideFollowingPkmn
+#-------------------------------
+[066]   # Valhalla
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]   # PALDEA
+Name = Safari Zone
+MapPosition = 0,12,12
+#-------------------------------
+[068]   # Salle de reunion
+Name = Salle de reunion
+Name = 
+Outdoor = false
+ShowArea = false
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]   # MAP069
+Name = Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]   # MAP070
+Name = Route 8
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]   # MAP071
+Name = Route 8
+MapPosition = 0,13,13
+#-------------------------------
+[072]   # MAP072
+Name = Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[073]   # MAP073
+Name = Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[074]   # Cycling Road gate
+Name = Route 6
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]   # MAP075
+Name = Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
+#-------------------------------
+[079]   # BOURG PALETTE
+Name = BOURG PALETTE
+Outdoor = true
+ShowArea = true
+SnapEdges = false
+WildBattleBGM = Battle Wild Kanto.ogg
+Flags = HideFollowingPkmn
+#-------------------------------
+[083]   # CÉLADOPOLE
+Name = CÉLADOPOLE
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[097]   # LAVANVILLE
+Name = LAVANVILLE
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[098]   # ROUTE 6
+Name = ROUTE 6
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[099]   # ROUTE 7
+Name = ROUTE 7
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[100]   # SAFRANIA
+Name = SAFRANIA
+Outdoor = true
+ShowArea = true
+BattleBack = 
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[103]   # ROUTE 1
+Name = ROUTE 1
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+WildVictoryBGM = Victory Wild.ogg
+#-------------------------------
+[104]   # JADIELLE
+Name = JADIELLE
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[106]   # ROUTE 2
+Name = ROUTE 2
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[108]   # ARGENTA
+Name = ARGENTA
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[112]   # AZURIA
+Name = AZURIA
+Outdoor = true
+ShowArea = true
+Weather = Rain,1
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[126]   # Route 20 folder
+Name = Route 20 folder
+Flags = HideFollowingPkmn
+#-------------------------------
+[128]   # ROUTE 19
+Name = ROUTE 19
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[129]   # PARMANIE
+Name = PARMANIE
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[133]   # ROUTE 18 
+Name = ROUTE 18
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[136]   # ROUTE 24
+Name = ROUTE 24
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[137]   # ROUTE 25
+Name = ROUTE 25
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[139]   # ROUTE 3
+Name = ROUTE 3
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[141]   # Route 3 filler 2
+Name = Route 3 filler 2
+#-------------------------------
+[142]   # ROUTE 5
+Name = ROUTE 5
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[143]   # Zone Zéro
+Name = Zone Zéro
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+WildBattleBGM = Battle Area Zero.ogg
+#-------------------------------
+[146]   # ROUTE 2
+Name = ROUTE 2
+Outdoor = true
+ShowArea = true
+BattleBack = GRASS
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[147]   # Route 3 filler
+Name = Route 3 filler
+#-------------------------------
+[148]   # ROUTE 4
+Name = ROUTE 4
+Outdoor = true
+ShowArea = true
+Weather = Rain,8
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[155]   # Site Météore B2F
+Name = Site Météore B2F
+ShowArea = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[158]   # Site Météore B3F
+Name = Site Météore B3F
+ShowArea = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[159]   # Site Météore B4F
+Name = Site Météore B4F
+ShowArea = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[160]   # Site Météore B5FF
+Name = Site Météore B5FF
+ShowArea = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[171]   # Site Météore B1F
+Name = Site Météore B1F
+Outdoor = false
+ShowArea = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[180]   # Forêt de Sleepwood
+Name = Forêt de Sleepwood
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+WildBattleBGM = Battle Wild Galar.ogg
+#-------------------------------
+[193]   # ROUTE 8
+Name = ROUTE 8
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[194]   # ROUTE 9
+Name = ROUTE 9
+Name = 
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[197]   # ROUTE 13
+Name = ROUTE 13
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[198]   # ROUTE 14
+Name = ROUTE 14
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[200]   # ROUTE 22
+Name = ROUTE 22
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+Flags = ShowFollowingPkmn
+#-------------------------------
+[201]   # ROUTE 4
+Name = ROUTE 4
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[203]   # Route 10 
+Name = Route 10
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[204]   # ROUTE 12
+Name = ROUTE 12
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[205]   # ROUTE 12
+Name = ROUTE 12
+Name = 
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[206]   # ROUTE 18
+Name = ROUTE 18
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[207]   # ROUTE 15 gauche
+Name = ROUTE 15 left
+Outdoor = true
+ShowArea = false
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[208]   # ROUTE 15 droit
+Name = ROUTE 15 right
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[210]   # ROUTE 20 Right
+Name = ROUTE 20 Right
+#-------------------------------
+[214]   # ROUTE 11
+Name = ROUTE 11
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[215]   # ROUTE 11 
+Name = ROUTE 11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[239]   # Tour Pokémon 
+Name = Pokemon Tower Floor 1
+#-------------------------------
+[240]   # Tour Pokémon 1
+Name = Pokemon Tower Floor 2
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[241]   # Tour Pokémon 2
+Name = Pokemon Tower Floor 3
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[242]   # Tour Pokémon 3
+Name = Pokemon Tower Floor 4
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[243]   # Mont Couronné
+Name = Mont Couronné
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+WildBattleBGM = Battle Wild Sinnoh.ogg
+Environment = Cave
+#-------------------------------
+[244]   # Mont Couronné
+Name = Mont Couronné
+Outdoor = true
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+WildBattleBGM = Battle Wild Sinnoh.ogg
+Environment = Cave
+#-------------------------------
+[245]   # Tour Pokémon Sommet
+Name = Pokemon Tower Floor 7
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[250]   # Caverne Azurée
+Name = Cerulean Cave 1
+Outdoor = false
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[251]   # Caverne Azurée -1
+Name = Cerulean Cave 2
+Outdoor = false
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[252]   # Caverne Azurée -2
+Name = Cerulean Cave 3
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[254]   # Mont Sélénite
+Name = Mont Sélénite
+Outdoor = false
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[284]   # Nénucrique
+Name = Nénucrique
+Outdoor = true
+ShowArea = true
+Weather = Rain,14
+SnapEdges = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[286]   # PACIFIVILLE
+Name = PACIFIVILLE
+Outdoor = true
+ShowArea = true
+Weather = Sun,100
+SnapEdges = true
+#-------------------------------
+[351]   # ROUTE 44
+Name = ROUTE 44
+#-------------------------------
+[367]   # Route 9
+Name = Route 9
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Battle Wild Galar.ogg
+#-------------------------------
+[395]   # Souterrain Nord-Sud
+Name = Underground path N-S
+Outdoor = false
+ShowArea = true
+Bicycle = false
+#-------------------------------
+[400]   # Mont Sélénite
+Name = Mont Sélénite
+Outdoor = false
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[401]   # Mont Sélénite
+Name = Mont Sélénite
+ShowArea = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[421]   # Zone Safari Normal
+Name = Zone Safari Normal
+#-------------------------------
+[453]   # Entrée Parc Safari
+Name = Entrée Parc Safari
+#-------------------------------
+[506]   # Colonnes Lances
+Name = Colonnes Lances
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[511]   # Route 216
+Name = Route 216
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+SnapEdges = false
+WildBattleBGM = Battle Wild Sinnoh.ogg
+#-------------------------------
+[512]   # Route 217
+Name = Route 217
+Outdoor = true
+ShowArea = true
+Weather = Blizzard,100
+SnapEdges = false
+WildBattleBGM = Battle Wild Sinnoh.ogg
+#-------------------------------
+[517]   # Entrée Fondation Aether
+Name = Entrée Fondation Aether
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[522]   # Jardin Aether
+Name = Jardin Aether
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[525]   # Chenal 127
+Name = Chenal 127
+Outdoor = true
+ShowArea = true
+Weather = HeavyRain,100
+SnapEdges = true
+#-------------------------------
+[526]   # ATALANOPOLIS
+Name = ATALANOPOLIS
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[527]   # PILIER CÉLESTE
+Name = PILIER CÉLESTE
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+SnapEdges = true
+#-------------------------------
+[528]   # Pillier Céleste RDC
+Name = Pillier Céleste RDC
+Outdoor = false
+ShowArea = true
+WildBattleBGM = Battle Wild Hoenn.ogg
+#-------------------------------
+[534]   # Autel du Dragon
+Name = Autel du Dragon
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[536]   # Chenal 127
+Name = Chenal 127
+Outdoor = true
+ShowArea = true
+Weather = HeavyRain,100
+SnapEdges = false
+#-------------------------------
+[537]   # PACIFIVILLE
+Name = PACIFIVILLE
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[538]   # ATALANOPOLIS
+Name = ATALANOPOLIS
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[548]   # Grotte Cyclopéeenne
+Name = Grotte Cyclopéeenne
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+WildBattleBGM = Battle Wild Unova.ogg
+#-------------------------------
+[554]   # Salle d'Aaron
+Name = Aaron's room
+#-------------------------------
+[571]   # Pokeball Factory
+Name = Pokeball Factory
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+WildBattleBGM = Wild Battle Kalos.ogg
+#-------------------------------
+[587]   # CROMLAC'H
+Name = CROMLAC'H
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[598]   # Centre Pokémon
+Name = Centre Pokémon
+#-------------------------------
+[613]   # Réseau du Sci-Lab
+Name = Réseau du Sci-Lab
+WildBattleBGM = Battle Universe 2-1.ogg
+#-------------------------------
+[614]   # Réseau du Sci-Lab 2
+Name = Réseau du Sci-Lab 2
+WildBattleBGM = Battle Universe 2-2.ogg
+#-------------------------------
+[645]   # Canyon
+Name = Canyon
+SnapEdges = true
+#-------------------------------
+[646]   # Tour du Temps
+Name = Tour du Temps
+SnapEdges = true
+#-------------------------------
+[650]   # Ancienne Egypte
+Name = Ancienne Egypte
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[651]   # Tour du Temps
+Name = Tour du Temps
+SnapEdges = true
+#-------------------------------
+[652]   # Tour du Temps
+Name = Tour du Temps
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[653]   # Tour du Temps
+Name = Tour du Temps
+SnapEdges = true
+#-------------------------------
+[654]   # Tour du Temps
+Name = Tour du Temps
+SnapEdges = true
+#-------------------------------
+[655]   # Tour du Temps
+Name = Tour du Temps
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[656]   # Tour du Temps
+Name = Tour du Temps
+SnapEdges = true
+#-------------------------------
+[658]   # Une ville natale
+Name = Une ville natale
+SnapEdges = true
+#-------------------------------
+[661]   # Champ d'espoirs et de rêves
+Name = Champ d'espoirs et de rêves
+WildBattleBGM = Battle Universe Delta.ogg
+#-------------------------------
+[662]   # Champ d'espoirs et de rêves
+Name = Champ d'espoirs et de rêves
+WildBattleBGM = Battle Universe Delta.ogg
+#-------------------------------
+[663]   # Champ d'espoirs et de rêves
+Name = Champ d'espoirs et de rêves
+WildBattleBGM = Battle Universe Delta.ogg
+#-------------------------------
+[666]   # Parc
+Name = Parc
+SnapEdges = true
+#-------------------------------
+[667]   # Territoire de la Banquise
+Name = Territoire de la Banquise
+SnapEdges = true
+#-------------------------------
+[668]   # Pont
+Name = Pont
+SnapEdges = true
+#-------------------------------
+[672]   # Collège Kadic
+Name = Collège Kadic
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[684]   # Centre Spatial
+Name = Centre Spatial
+#-------------------------------
+[687]   # Temple de Sinnoh
+Name = Temple de Sinnoh
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[689]   # Centre Spatial
+Name = Centre Spatial
+#-------------------------------
+[690]   # Centre Spatial
+Name = Centre Spatial
+#-------------------------------
+[694]   # Village du firmament
+Name = Village du firmament
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[704]   # Tour Céleste Entrée
+Name = Tour Céleste Entrée
+Outdoor = false
+SnapEdges = true
+#-------------------------------
+[707]   # Tour Céleste
+Name = Tour Céleste
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+WildVictoryBGM = Sky Tower.ogg
+#-------------------------------
+[708]   # Tour Céleste
+Name = Tour Céleste
+Outdoor = false
+ShowArea = true
+DarkMap = false
+SnapEdges = true
+#-------------------------------
+[709]   # Tour Céleste
+Name = Tour Céleste
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[710]   # Tour Céleste
+Name = Tour Céleste
+ShowArea = true
+SnapEdges = true
+WildVictoryBGM = Sky Tower.ogg
+#-------------------------------
+[711]   # Tour Céleste
+Name = Tour Céleste
+Outdoor = false
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[712]   # Tour Céleste
+Name = Tour Céleste
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[713]   # Tour Céleste Sommet
+Name = Tour Céleste Sommet
+#-------------------------------
+[715]   # Autel du Dragon
+Name = Autel du Dragon
+SnapEdges = true
+#-------------------------------
+[721]   # Forêt de Jade
+Name = Forêt de Jade
+Outdoor = true
+ShowArea = true
+BattleBack = 
+WildBattleBGM = Battle Wild Kanto.ogg
+TrainerBattleBGM = Battle Trainer Kanto.ogg
+WildVictoryBGM = Victory Wild.ogg
+#-------------------------------
+[725]   # Plateau Indigo 
+Name = Plateau Indigo
+Flags = HideFollowingPkmn
+#-------------------------------
+[726]   # Plateau Indigo 
+Name = Plateau Indigo
+Flags = HideFollowingPkmn
+#-------------------------------
+[729]   # MAP729
+Name = Zone Zéro 2
+#-------------------------------
+[730]   # Filler
+Name = Zone Zéro 3
+SnapEdges = true
+BattleBack = 
+WildBattleBGM = Battle! Area Zero.ogg
+Environment = Grass
+#-------------------------------
+[732]   # Grotte Cyclopéenne
+Name = Grotte Cyclopéenne
+#-------------------------------
+[733]   # Jadielle roche
+Name = Jadielle roche
+#-------------------------------
+[738]   # Filler 2
+Name = Filler 2
+#-------------------------------
+[739]   # Arène 
+Name = Arène
+#-------------------------------
+[742]   # Zone Zéro
+Name = Zone Zéro
+ShowArea = true
+WildBattleBGM = Battle Area Zero.ogg
+#-------------------------------
+[743]   # Zone Zéro 
+Name = Zone Zéro
+WildBattleBGM = Battle Area Zero.ogg
+#-------------------------------
+[744]   # Zone Zéro
+Name = Zone Zéro
+WildBattleBGM = Battle Area Zero.ogg
+#-------------------------------
+[745]   # Zone Zéro
+Name = Zone Zéro
+WildBattleBGM = Battle Area Zero.ogg
+#-------------------------------
+[746]   # Laboratoire 1
+Name = Laboratoire
+#-------------------------------
+[753]   # Centre Pokémon
+Name = Centre Pokémon
+#-------------------------------
+[757]   # Parc Safari
+Name = Parc Safari
+Outdoor = true
+SafariMap = true
+#-------------------------------
+[758]   # Zones_Gauche
+Name = Zones_Gauche
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[759]   # Zone Plante
+Name = Plaine verdoyante
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[760]   # Zone Eau
+Name = Bassin Aquatique
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[761]   # Zone Psy Poison
+Name = Jardin Psycho-poison
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[762]   # Zone Insect Fée
+Name = Jardin Féérique
+Outdoor = true
+ShowArea = true
+SafariMap = true
+BattleBack = 
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[764]   # Zone Normale
+Name = Plaine Normale
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[765]   # Zone Glace Vol
+Name = Plaine Plumage Glacé
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[767]   # Zone Spectre Ténèbres
+Name = Zone Spectre Ténèbres
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[768]   # Zone Electrik
+Name = Jardin Electrique
+Outdoor = true
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[769]   # Zone_Grottes
+Name = Zone_Grottes
+#-------------------------------
+[770]   # Caverne Rocheuse
+Name = Caverne Rocheuse
+Outdoor = false
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[772]   # Caverne Draconique
+Name = Caverne Draconique
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kalos.ogg
+#-------------------------------
+[773]   # Grotte Ardente
+Name = Grotte Ardente
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[775]   # Grotte boueuse
+Name = Grotte Boueuse
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[776]   # Caverne du combattant
+Name = Caverne du combattant
+ShowArea = true
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[777]   # Grotte de Fer
+Name = Grotte de fer
+ShowArea = true
+DarkMap = false
+SafariMap = true
+WildBattleBGM = Battle Wild Kanto.ogg
+#-------------------------------
+[800]   # DOUBLONVILLE
+Name = DOUBLONVILLE
+ShowArea = true
+SnapEdges = true
+Flags = HideFollowingPkmn

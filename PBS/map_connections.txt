@@ -1,0 +1,254 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Bourg de l'étoile (2) - Route 1 (5)
+2,N,0,5,S,4
+# Valhalla (66) - Bourg de l'étoile (2)
+66,E,0,2,W,0
+# MAP069 (69) - Bourg de l'étoile (2)
+69,N,12,2,S,0
+# Route 1 (5) - Plateau Météore (7)
+5,N,2,7,S,0
+# Valhalla (66) - Route 1 (5)
+66,N,18,5,S,0
+# Route 6 (44) - Route 1 (5)
+44,S,43,5,N,0
+# Plateau Météore (7) - Route 7 (47)
+7,E,0,47,W,0
+# Route 6 (44) - Plateau Météore (7)
+44,E,0,7,W,5
+# Île des voeux (23) - Plateau Météore (7)
+23,W,78,7,E,0
+# Sentier de l'espoir (21) - Plateau Météore (7)
+21,S,0,7,N,21
+# Sentier de l'espoir (21) - Route 7 (47)
+21,E,77,47,W,0
+# Sentier de l'espoir (21) - Île des voeux (23)
+21,E,0,23,W,1
+# Route 3 (31) - Île des voeux (23)
+31,S,32,23,N,0
+# Route 44 (35) - Route 3 (31)
+35,E,10,31,W,0
+# ROUTE 11 (214) - CARMIN-SUR-MER (32)
+214,W,0,32,E,1
+# ROUTE 6 (98) - CARMIN-SUR-MER (32)
+98,S,0,32,N,3
+# Centre Pokémon (46) - Algatia (39)
+46,0,24,39,27,0
+# Filler cerulean (40) - ROUTE 9 (194)
+40,S,11,194,N,0
+# AZURIA (112) - Filler cerulean (40)
+112,N,36,40,S,0
+# ROUTE 24 (136) - Filler cerulean (40)
+136,E,23,40,W,0
+# ROUTE 25 (137) - Filler cerulean (40)
+137,S,0,40,N,0
+# ROUTE 10 (202) - Filler cerulean (40)
+202,N,0,40,S,83
+# CAVERNE UNION (41) - QG de la D-SQUAD (509)
+41,131,20,509,0,0
+# Forêt Utopique 2 (60) - Forêt Utopique (59)
+60,92,99,59,0,0
+# Forêt Utopique 3 (61) - Forêt Utopique 2 (60)
+61,9,0,60,0,103
+# MAP069 (69) - Valhalla (66)
+69,N,0,66,S,10
+# ROUTE 1 (103) - BOURG PALETTE (79)
+103,S,0,79,N,0
+# Jadielle roche (733) - BOURG PALETTE (79)
+733,E,93,79,W,0
+# ROUTE 22 (200) - BOURG PALETTE (79)
+200,E,78,79,W,0
+# ROUTE 7 (99) - CÉLADOPOLE (83)
+99,W,0,83,E,0
+# ROUTE 8 (193) - LAVANVILLE (97)
+193,E,4,97,W,0
+# Route 10  (203) - LAVANVILLE (97)
+203,S,0,97,N,2
+# ROUTE 12 (204) - LAVANVILLE (97)
+204,N,0,97,S,0
+# Jadielle roche (733) - ROUTE 1 (103)
+733,E,54,103,W,0
+# JADIELLE (104) - ROUTE 1 (103)
+104,S,0,103,N,0
+# ROUTE 22 (200) - ROUTE 1 (103)
+200,E,39,103,W,0
+# JADIELLE (104) - Jadielle roche (733)
+104,W,0,733,E,15
+# ROUTE 2 (146) - JADIELLE (104)
+146,S,0,104,N,0
+# ROUTE 22 (200) - JADIELLE (104)
+200,E,0,104,W,0
+# CINNABAR ISLAND (105) - Blue sea left (127)
+105,N,36,127,S,0
+# ROUTE 20 Left (209) - CINNABAR ISLAND (105)
+209,W,0,105,E,0
+# ROUTE 21 (124) - CINNABAR ISLAND (105)
+124,S,0,105,N,0
+# ROUTE 2 (106) - ROUTE 3 (139)
+106,E,0,139,W,28
+# ARGENTA (108) - ROUTE 2 (106)
+108,S,0,106,N,0
+# ARGENTA (108) - ROUTE 3 (139)
+108,E,17,139,W,0
+# AZURIA (112) - ROUTE 9 (194)
+112,E,0,194,W,0
+# ROUTE 24 (136) - AZURIA (112)
+136,S,0,112,N,1
+# ROUTE 4 (148) - AZURIA (112)
+148,E,5,112,W,0
+# ROUTE 5 (142) - AZURIA (112)
+142,N,0,112,S,0
+# ROUTE 21 (124) - Blue sea left (127)
+124,E,60,127,W,0
+# ROUTE 21 (124) - ROUTE 20 Left (209)
+124,S,30,209,N,0
+# INDIGO PLATEAU (125) - Route 23 up (467)
+125,S,0,467,N,4
+# ROUTE 20 Left (209) - Blue sea left (127)
+209,N,6,127,S,0
+# ROUTE 19 (128) - PARMANIE (129)
+128,N,0,129,S,10
+# ROUTE 15 gauche (207) - ROUTE 19 (128)
+207,W,40,128,E,0
+# filler parmanie (755) - ROUTE 19 (128)
+755,E,0,128,W,0
+# ROUTE 15 gauche (207) - PARMANIE (129)
+207,W,0,129,E,0
+# filler parmanie (755) - PARMANIE (129)
+755,N,11,129,S,0
+# ROUTE 18  (133) - PARMANIE (129)
+133,E,0,129,W,11
+# ROUTE 17 (131) - ROUTE 16 cycle (134)
+131,N,0,134,S,0
+# ROUTE 24 (136) - ROUTE 9 (194)
+136,S,46,194,N,0
+# ROUTE 25 (137) - ROUTE 24 (136)
+137,W,1,136,E,0
+# ROUTE 10 (202) - ROUTE 24 (136)
+202,N,0,136,S,118
+# ROUTE 3 (139) - ROUTE 4 (201)
+139,N,61,201,S,0
+# Filler 2 (738) - ROUTE 3 (139)
+738,S,0,139,N,2
+# ROUTE 5 (142) - ROUTE 4 (148)
+142,W,0,148,E,44
+# ROUTE 2 (146) - Jadielle roche (733)
+146,W,64,733,E,0
+# ROUTE 22 (200) - ROUTE 2 (146)
+200,N,52,146,S,0
+# ROUTE 12 (204) - ROUTE 8 (193)
+204,W,0,193,E,27
+# ROUTE 10 (202) - ROUTE 9 (194)
+202,W,0,194,E,0
+# ROUTE 13 (197) - ROUTE 14 (198)
+197,W,0,198,E,0
+# ROUTE 12 (205) - ROUTE 13 (197)
+205,S,0,197,N,47
+# MAP729 (729) - ROUTE 13 (197)
+729,S,2,197,N,0
+# ROUTE 12 (205) - ROUTE 14 (198)
+205,S,0,198,N,70
+# MAP729 (729) - ROUTE 14 (198)
+729,S,0,198,N,21
+# ROUTE 15 droit (208) - ROUTE 14 (198)
+208,E,0,198,W,26
+# Route 14 grass filler 2 (219) - ROUTE 14 (198)
+219,N,0,198,S,0
+# ROUTE 22 (200) - Jadielle roche (733)
+200,N,32,733,S,0
+# Filler (737) - ROUTE 4 (201)
+737,E,0,201,W,8
+# Route 10 Lavender filler (212) - Route 10  (203)
+212,E,0,203,W,41
+# MAP729 (729) - ROUTE 12 (205)
+729,E,0,205,W,104
+# ROUTE 11  (215) - ROUTE 12 (205)
+215,E,0,205,W,56
+# Route 14 grass filler 2 (219) - ROUTE 15 droit (208)
+219,W,0,208,E,35
+# Blue sea right (211) - ROUTE 20 Right (210)
+211,S,0,210,N,6
+# Route 216 (511) - HOENN (258)
+511,0,0,258,52,79
+# Sandgem Town (262) - Route 201 (309)
+262,W,3,309,E,0
+# Sandgem Town (262) - Extra trees (311)
+262,W,32,311,E,0
+# Twinleaf Town (307) - Sandgem Town (262)
+307,N,66,262,S,0
+# Twinleaf Town (307) - Route 201 (309)
+307,N,0,309,S,24
+# Extra trees (311) - Route 201 (309)
+311,N,0,309,S,64
+# ROUTE 29 (340) - NEW BARK TOWN (334)
+340,E,1,334,W,0
+# ROUTE 30 (345) - CHERRYGROVE CITY (338)
+345,S,0,338,N,14
+# ROUTE 29 (340) - CHERRYGROVE CITY (338)
+340,W,4,338,E,0
+# ROUTE 29 (340) - ROUTE 30 (345)
+340,W,0,345,E,57
+# ROUTE 30 (345) - ROUTE 31 (347)
+345,N,0,347,S,16
+# ROUTE 44 (351) - MAHOGANY TOWN (349)
+351,W,0,349,E,0
+# Route 217 (512) - Route 216 (511)
+512,S,2,511,N,0
+# Collège Kadic (672) - Parc (666)
+672,105,0,666,0,0
+# Parc Safari (757) - Zone Electrik (768)
+757,E,0,768,W,0
+# Zone Psy Poison (761) - Zone Electrik (768)
+761,S,148,768,N,0
+# Zone Normale (764) - Zone Electrik (768)
+764,E,41,768,W,0
+# Zone Insect Fée (762) - Zone Electrik (768)
+762,S,98,768,N,0
+# Zone Glace Vol (765) - Zone Electrik (768)
+765,E,97,768,W,0
+# Zone Spectre Ténèbres (767) - Zone Electrik (768)
+767,S,0,768,N,0
+# Zone Psy Poison (761) - Parc Safari (757)
+761,S,100,757,N,0
+# Zone Plante (759) - Parc Safari (757)
+759,E,0,757,W,0
+# Zone Normale (764) - Parc Safari (757)
+764,S,0,757,N,0
+# Zone Insect Fée (762) - Parc Safari (757)
+762,E,41,757,W,0
+# Zone Spectre Ténèbres (767) - Parc Safari (757)
+767,W,41,757,E,0
+# Zone Plante (759) - Zone Psy Poison (761)
+759,W,0,761,E,41
+# Zone Eau (760) - Zone Psy Poison (761)
+760,N,0,761,S,0
+# Zone Insect Fée (762) - Zone Psy Poison (761)
+762,W,0,761,E,0
+# Zone Glace Vol (765) - Zone Psy Poison (761)
+765,S,0,761,N,100
+# Zone Normale (764) - Zone Plante (759)
+764,W,41,759,E,0
+# Zone Eau (760) - Zone Plante (759)
+760,E,0,759,W,0
+# Zone Insect Fée (762) - Zone Plante (759)
+762,S,0,759,N,0
+# Zone Glace Vol (765) - Zone Plante (759)
+765,W,97,759,E,0
+# Zone Spectre Ténèbres (767) - Zone Plante (759)
+767,S,0,759,N,98
+# Zone Eau (760) - Zone Normale (764)
+760,N,100,764,S,0
+# Zone Insect Fée (762) - Zone Normale (764)
+762,E,0,764,W,0
+# Zone Glace Vol (765) - Zone Normale (764)
+765,S,0,764,N,0
+# Zone Spectre Ténèbres (767) - Zone Normale (764)
+767,W,0,764,E,0
+# Zone Insect Fée (762) - Zone Eau (760)
+762,W,41,760,E,0
+# Zone Spectre Ténèbres (767) - Zone Eau (760)
+767,S,0,760,N,148
+# Zone Glace Vol (765) - Zone Insect Fée (762)
+765,W,56,762,E,0
+# Zone Spectre Ténèbres (767) - Zone Glace Vol (765)
+767,W,0,765,E,56

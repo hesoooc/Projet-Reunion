@@ -1,0 +1,69 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 82,7,5,8
+StorageCreator = Léo
+WildBattleBGM = Wild Battle Kanto
+TrainerBattleBGM = Battle Trainer Kanto
+WildVictoryBGM = Victory Wild
+TrainerVictoryBGM = frlg_trainervictory
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = Red Masters
+RunCharset = Red_Masters_Running
+CycleCharset = Red_Masters_Bike
+SurfCharset = boy_surf_offset
+DiveCharset = boy_dive_offset
+FishCharset = Red_Fishing
+SurfFishCharset = boy_fishsurf_offset
+CharizardFlyCharset = Red_Charizard
+LaprasSurfCharset = Red_Lapras
+ArcanineSpeedCharset = Red_Arcanine
+#-------------------------------
+[2]
+TrainerType = RED
+WalkCharset = Redvintage
+RunCharset = Redvintage
+CycleCharset = Redvintage
+SurfCharset = boy_surf_offset
+DiveCharset = boy_dive_offset
+FishCharset = boy_fish_offset
+SurfFishCharset = boy_fishsurf_offset
+CharizardFlyCharset = 
+LaprasSurfCharset = 
+ArcanineSpeedCharset = 
+#-------------------------------
+[3]
+TrainerType = REDGSC
+WalkCharset = red masters npc
+RunCharset = red masters npc
+CycleCharset = red masters npc
+SurfCharset = boy_surf_offset
+DiveCharset = boy_dive_offset
+FishCharset = boy_fish_offset
+SurfFishCharset = boy_fishsurf_offset
+#-------------------------------
+[4]
+TrainerType = REDRSE
+WalkCharset = Red Masters 3
+RunCharset = Red Masters 3 Running
+CycleCharset = Red Masters 3 Bike
+SurfCharset = boy_surf_offset
+DiveCharset = boy_dive_offset
+FishCharset = Red_Fishing
+SurfFishCharset = boy_fishsurf_offset
+#-------------------------------
+[5]
+TrainerType = REDCUTSCENE
+WalkCharset = Red Cutscene
+RunCharset = Red Cutscene
+CycleCharset = Red Cutscene
+SurfCharset = Red Cutscene
+DiveCharset = Red Cutscene
+FishCharset = Red Cutscene
+SurfFishCharset = Red Cutscene
